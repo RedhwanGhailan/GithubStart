@@ -1,2 +1,2 @@
 # GithubStart
-To starter or begnier
+This is for github learning
